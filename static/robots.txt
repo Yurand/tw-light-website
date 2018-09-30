@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: *=*
+Host: https://tw-light.appspot.com/
+Sitemap: https://tw-light.appspot.com/sitemap.xml
