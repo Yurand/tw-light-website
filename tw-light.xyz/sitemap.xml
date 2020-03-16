@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
-            <loc>https://tw-light.appspot.com/</loc>
+            <loc>https://tw-light.xyz/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <lastmod>2018-09-30</lastmod>
         </url>
         <url>
-            <loc>https://tw-light.appspot.com/downloads.html</loc>
+            <loc>https://tw-light.xyz/downloads.html</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <lastmod>2018-09-30</lastmod>
         </url>
         <url>
-            <loc>https://tw-light.appspot.com/links.html</loc>
+            <loc>https://tw-light.xyz/links.html</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <lastmod>2018-09-30</lastmod>
         </url>
         <url>
-            <loc>https://tw-light.appspot.com/screenshots.html</loc>
+            <loc>https://tw-light.xyz/screenshots.html</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <lastmod>2018-09-30</lastmod>
         </url>
         <url>
-            <loc>https://tw-light.appspot.com/team.html</loc>
+            <loc>https://tw-light.xyz/team.html</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
             <lastmod>2018-09-30</lastmod>

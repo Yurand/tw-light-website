@@ -55,3 +55,12 @@ a:hover {
   height: 100%;
 }
 
+p {
+  font-family: Verdana, Times, serif;
+}
+li {
+  font-family: Verdana, Times, serif;
+}
+a {
+  font-family: Verdana, Times, serif;
+}

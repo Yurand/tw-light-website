@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: *=*
+Host: https://tw-light.xyz/
+Sitemap: https://tw-light.xyz/sitemap.xml
